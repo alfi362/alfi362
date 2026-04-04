@@ -1,41 +1,39 @@
 # Hi there, I'm Alfin 👋 ☁️
 
-I'm a Computer Science Engineering graduate and an aspiring Cloud/Site Reliability Engineer. I specialize in building highly available, scalable, and secure infrastructure using AWS and modern DevOps practices. 
-
-Currently, I'm working as an **AWS Cloud Engineering Intern at F13 Technologies**, where I architect serverless backends and optimize global content delivery networks.
+I'm a Computer Science Engineering graduate passionate about building scalable, serverless cloud infrastructure on AWS. Currently working as an **AWS Cloud Engineering Intern at F13 Technologies**, where I architect serverless backends and automate cloud workflows.
 
 ### 🚀 What I'm up to:
-* 🔭 **Currently working on:** Architecting serverless web applications and automating CI/CD pipelines.
-* 🌱 **Currently diving deeper into:** Advanced Kubernetes orchestration and Infrastructure as Code (Terraform).
-* 💬 **Ask me about:** AWS (Lambda, S3, API Gateway, Cognito), Serverless Architecture, and Python.
-* 📫 **How to reach me:** [alfinshaji198@gmail.com](mailto:alfinshaji198@gmail.com)
+- 🔭 **Currently working on:** Serverless LMS platform using AWS Lambda, DynamoDB, S3, and SES
+- 🌱 **Currently learning:** Linux server administration and cloud networking
+- 💬 **Ask me about:** AWS (Lambda, S3, API Gateway, DynamoDB, SES, Rekognition), Serverless Architecture, and Python
+- 📫 **How to reach me:** [alfinshaji198@gmail.com](mailto:alfinshaji198@gmail.com)
+- 📄 **Published:** IEEE ICSCC 2025 — Recipe Recommendation System
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Cloud & DevOps:**
+**Cloud & Infrastructure:**
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Languages & Databases:**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ### 💻 Featured Projects
 
-* **[Serverless Attendance System](#)**: A real-time tracking system utilizing facial recognition. Architected entirely on AWS using **Rekognition, Lambda, S3, and DynamoDB**.
-* **[Serverless Real-Time Chat App](#)**: A highly available chat application leveraging **Amazon S3, CloudFront, API Gateway, and Lambda** for seamless fault tolerance and low latency.
-* **[AI-Driven Feedback Analysis Platform](#)**: An automated serverless pipeline using **AWS Comprehend** for real-time natural language processing and sentiment extraction.
+- **[Serverless Facial Recognition Attendance System](https://github.com/alfi362):** Real-time attendance tracking using **AWS Rekognition, Lambda, S3, and DynamoDB**
+- **[Serverless Real-Time Chat App](https://github.com/alfi362):** Highly available chat platform using **S3, CloudFront, API Gateway, and Lambda**
+- **[AI-Driven Feedback Analysis Platform](https://github.com/alfi362):** Automated NLP pipeline using **AWS Comprehend** for sentiment analysis
 
 ---
 
