@@ -40,10 +40,11 @@ I'm a Computer Science Engineering graduate passionate about building scalable, 
 
 ### 📊 GitHub Stats
 <div align="center">
-  <div align="center">
+
 ![Python](https://img.shields.io/badge/Python-Most%20Used-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell](https://img.shields.io/badge/Shell%20Script-2nd-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-3rd-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 </div>
 </div>
 <br/>
