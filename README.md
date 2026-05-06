@@ -1,4 +1,4 @@
-# Hi there, I'm Alfin 👋 ☁️
+# Hi there, I'm Alfin 👋 
 
 I'm a Computer Science Engineering graduate passionate about building scalable, serverless cloud infrastructure on AWS. Currently working as a **Linux Server Administrator Intern at HashRoot**, where I manage and administer Linux-based server infrastructure.
 
