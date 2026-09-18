@@ -16,7 +16,7 @@ Cloud Support Engineer @ Lightening Infotech Solutions
 
 B.Tech Computer Science graduate with hands-on experience in **AWS serverless architecture** and **Linux server administration** across two internships. I've designed and shipped production-grade cloud infrastructure — from serverless backends on AWS to LEMP stack deployments — and hold an IEEE publication in AI-driven recommendation systems.
 
-Currently pursuing **AWS Certified Developer – Associate (DVA-C02)** and open to opportunities in **DevOps**, **Cloud Engineering**, and **Linux/Server Administration**.
+Currently pursuing  AWS Certified Cloud Architect – Associate (SAA-C03) and open to opportunities in **DevOps**, **Cloud Engineering**.
 
 ---
 
