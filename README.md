@@ -2,7 +2,7 @@
 
 # Alfin Shaji
 
-**Cloud & DevOps Engineer · AWS Serverless · Linux Server Administration**
+Cloud Support Engineer @ Lightening Infotech Solutions 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfin-shaji198)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfinshaji198@gmail.com)
