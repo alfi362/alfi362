@@ -95,7 +95,7 @@ International Conference on Smart Computing and Communications
 ## 📜 Certifications
 
 - AWS Partner Training — Cloud Foundations & Serverless Architecture
-- 🔄 *In Progress:* AWS Certified Developer – Associate (DVA-C02)
+- 🔄 *In Progress:* AWS Certified Cloud Architect – Associate (SAA-C03)
 
 ---
 
